@@ -1,8 +1,7 @@
 Mijn visitiekaart.
+https://codepen.io/your-work?grid_type=grid
+![Schermafbeelding 2022-09-09 om 10 50 30](https://user-images.githubusercontent.com/112856019/189311423-41622c68-fab2-4c89-b32d-bee476a811ae.png)
 
-
-
-![Schermafbeelding 2022-09-09 om 10 24 18](https://user-images.githubusercontent.com/112856019/189306578-7b51a3b3-5ac3-4b20-a8db-11758ef0d3ef.png)
 
 
 
